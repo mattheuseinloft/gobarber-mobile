@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-  💈React Native App for GoBarber, a barber scheduling application
+  💈React Native app for GoBarber, a barber scheduling application
 </h4>
 
 <p align="center">
