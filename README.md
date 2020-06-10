@@ -3,7 +3,13 @@
     src=".github/logo.svg"
     width="200px"
   />
+  <br>
+  GoBarber Mobile
 </h1>
+
+<h4 align="center">
+  💈React Native App for GoBarber, a barber scheduling application
+</h4>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/gobarber-mobile?color=%23FF9000">
