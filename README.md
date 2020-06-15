@@ -42,10 +42,11 @@ This project is being developed with the following technologies:
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [react-native-iphone-x-helper](https://github.com/ptelad/react-native-iphone-x-helper)
 - [Unform](https://github.com/Rocketseat/unform)
-<!--
-- [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [yup](https://github.com/jquense/yup): Input validation
 - [axios](https://www.npmjs.com/package/axios)
+- [react-native-community/async-storage](https://github.com/react-native-community/async-storage)
+<!--
+- [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [react-spring](https://www.react-spring.io/): Simple Animations in React -->
 
 ## :computer: How To Run
