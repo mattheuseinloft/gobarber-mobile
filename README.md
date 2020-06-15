@@ -39,9 +39,11 @@ This project is being developed with the following technologies:
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) & [EditorConfig](https://editorconfig.org/): Code standardization and formatting
 - [Styled Components](https://styled-components.com/)
 - [React Navigation](https://reactnavigation.org/): Routing and navigation for React Native apps
-<!-- - [react-icons](https://react-icons.github.io/react-icons/)
-- [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [react-native-iphone-x-helper](https://github.com/ptelad/react-native-iphone-x-helper)
 - [Unform](https://github.com/Rocketseat/unform)
+<!--
+- [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [yup](https://github.com/jquense/yup): Input validation
 - [axios](https://www.npmjs.com/package/axios)
 - [react-spring](https://www.react-spring.io/): Simple Animations in React -->
